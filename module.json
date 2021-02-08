@@ -1,0 +1,21 @@
+{
+    "name": "demonlord_chn",
+    "title": "魔王之影汉化",
+    "description": "为FVTT平台的魔王之影系统提供的汉化",
+    "version": "0.8",
+    "author": "HXQXH",
+    "minimumCoreVersion": "0.6.6",
+    "compatibleCoreVersion": "0.7.9",
+    "system":"demonlord",
+    "packs": [],
+    "languages": [
+        {
+            "lang": "cn",
+            "name": "中文",
+            "path": "lang/cn.json"
+        }
+    ],
+    "url": "https://github.com/TI-130/demonlord_chn",
+    "manifest": "https://raw.githubusercontent.com/TI-130/demonlord_chn/master/module.json",
+    "download": "https://github.com/TI-130/demonlord_chn/releases/download/0.8/demonlord_chn.zip"
+}
