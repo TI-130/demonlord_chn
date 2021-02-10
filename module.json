@@ -63,6 +63,13 @@
             "system": "demonlord",
             "path": "./packs/weaponchn.db",
             "entity": "Item"
+        },
+        {
+            "name": "弹药",
+            "label": "弹药",
+            "system": "demonlord",
+            "path": "./packs/ammunitionchn.db",
+            "entity": "Item"
         }
     ],
     "languages": [
@@ -74,5 +81,5 @@
     ],
     "url": "https://github.com/TI-130/demonlord_chn",
     "manifest": "https://raw.githubusercontent.com/TI-130/demonlord_chn/master/module.json",
-    "download": "https://github.com/TI-130/demonlord_chn/releases/download/0.9/demonlord_chn.zip"
+    "download": "https://github.com/TI-130/demonlord_chn/releases/download/0.9.1/demonlord_chn.zip"
 }
