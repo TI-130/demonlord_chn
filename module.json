@@ -7,22 +7,6 @@
     "minimumCoreVersion": "0.6.6",
     "compatibleCoreVersion": "0.7.9",
     "system":"demonlord",
-    "packs": [
-        {
-            "name": "武器",
-            "label": "武器",
-            "system": "demonlord",
-            "path": "./packs/weaponchn.db",
-            "entity": "Item"
-        },
-        {
-            "name": "弹药",
-            "label": "弹药",
-            "system": "demonlord",
-            "path": "./packs/ammunitionchn.db",
-            "entity": "Item"
-        }
-    ],
     "languages": [
         {
             "lang": "cn",
