@@ -1,5 +1,0 @@
-{"name":"子弹与黑火药","permission":{"default":0,"UmXPyDlsSZ2Z2C5b":3},"type":"ammo","data":{"description":"","quantity":"5","value":"1 ss"},"flags":{},"img":"systems/demonlord/icons/ammunition/bullets.png","effects":[],"_id":"J9qr7SnwyaGBt88M"}
-{"name":"弩矢","permission":{"default":0,"UmXPyDlsSZ2Z2C5b":3},"type":"ammo","data":{"description":"","quantity":"5","value":"5 cp"},"flags":{},"img":"systems/demonlord/icons/ammunition/bolts.png","effects":[],"_id":"uLY6tHedbn3Xigxc"}
-{"name":"石块","permission":{"default":0,"UmXPyDlsSZ2Z2C5b":3},"type":"ammo","data":{"description":"","quantity":"5","value":"5 cp"},"flags":{},"img":"systems/demonlord/icons/ammunition/rock.png","effects":[],"_id":"jx4YA6zo4Ji4wSsa"}
-{"name":"箭矢","permission":{"default":0,"UmXPyDlsSZ2Z2C5b":3},"type":"ammo","data":{"description":"","quantity":"5","value":"5 cp"},"flags":{},"img":"systems/demonlord/icons/ammunition/arrows.png","effects":[],"_id":"j0C0FSXNZiQqSGpX"}
-{"name":"飞镖","permission":{"default":0,"UmXPyDlsSZ2Z2C5b":3},"type":"ammo","data":{"description":"","quantity":"5","value":"5 cp"},"flags":{},"img":"systems/demonlord/icons/weapons/dart.png","effects":[],"_id":"eCryjdBLw7kbuYfB"}

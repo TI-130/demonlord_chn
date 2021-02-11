@@ -9,55 +9,6 @@
     "system":"demonlord",
     "packs": [
         {
-            "name": "护甲",
-            "label": "护甲",
-            "system": "demonlord",
-            "path": "./packs/armorchn.db",
-            "entity": "Item"
-        },
-        {
-            "name": "语言",
-            "label": "语言",
-            "system": "demonlord",
-            "path": "./packs/languageschn.db",
-            "entity": "Item"
-        },
-        {
-            "name": "入门道途",
-            "label": "入门道途",
-            "system": "demonlord",
-            "path": "./packs/novicepathchn.db",
-            "entity": "Item"
-        },
-        {
-            "name": "入门道途天赋",
-            "label": "入门道途天赋",
-            "system": "demonlord",
-            "path": "./packs/novicepathtraitschn.db",
-            "entity": "Item"
-        },
-        {
-            "name": "种族",
-            "label": "种族",
-            "system": "demonlord",
-            "path": "./packs/racechn.db",
-            "entity": "Item"
-        },
-        {
-            "name": "种族特质",
-            "label": "种族特质",
-            "system": "demonlord",
-            "path": "./packs/racetraitschn.db",
-            "entity": "Item"
-        },
-        {
-            "name": "浪客天赋",
-            "label": "浪客天赋",
-            "system": "demonlord",
-            "path": "./packs/rougetalentschn.db",
-            "entity": "Item"
-        },
-        {
             "name": "武器",
             "label": "武器",
             "system": "demonlord",
@@ -81,5 +32,5 @@
     ],
     "url": "https://github.com/TI-130/demonlord_chn",
     "manifest": "https://raw.githubusercontent.com/TI-130/demonlord_chn/master/module.json",
-    "download": "https://github.com/TI-130/demonlord_chn/releases/download/0.9.1/demonlord_chn.zip"
+    "download": "https://github.com/TI-130/demonlord_chn/releases/download/0.9.2/demonlord_chn.zip"
 }
